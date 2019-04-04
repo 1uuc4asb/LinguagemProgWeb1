@@ -1,0 +1,15 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    width: 20em;
+    border: solid;
+    padding: 2em;
+}
