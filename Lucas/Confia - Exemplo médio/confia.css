@@ -1,0 +1,66 @@
+@font-face {
+    font-family: caviar;
+    src: url(caviar_font/CaviarDreams.ttf);
+}
+
+@font-face {
+    font-family: bebas;
+    src: url(bebas_font/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: lemon;
+    src: url(lemon_font/LemonMilk.otf);
+}
+
+* {
+    font-family: bebas;
+}
+
+html {
+    font-size: 2em;
+    text-align: center;
+    height: 100%;
+    overflow: auto;
+    background: url("aa.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    margin: 30px;
+    overflow: auto;
+    box-shadow: 2px 20px 30px;
+    text-shadow: white 5px 5px 5px;
+    border: transparent;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+button {
+    padding: 5px;
+    margin: 30px;
+    font-size: 1.5em;
+    background: rgba(0, 0, 0, 0.2);
+    color: white;
+    border: solid;
+    border-color: aliceblue;
+    border-width: thin;
+    border-radius: 10px;
+    box-shadow: black 2px 20px 30px;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 2px 20px 30px;
+}
+
+#pegadinha {
+    display: none;
+    color: white;
+}
