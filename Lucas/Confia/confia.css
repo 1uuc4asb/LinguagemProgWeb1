@@ -1,0 +1,43 @@
+@font-face {
+    font-family: caviar;
+    src: url(caviar_font/CaviarDreams.ttf);
+}
+
+@font-face {
+    font-family: bebas;
+    src: url(bebas_font/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: lemon;
+    src: url(lemon_font/LemonMilk.otf);
+}
+
+html {
+    background-image: url("aa.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 2em;
+    text-shadow: white 5px 5px 5px;
+    text-align: center;
+    font-family: bebas;
+    height: 100%;
+    overflow: auto;
+}
+
+h1 {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    margin: 30px;
+    overflow: auto;
+    box-shadow: 2px 20px 30px;
+    border: transparent;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 2px 20px 30px;
+}
