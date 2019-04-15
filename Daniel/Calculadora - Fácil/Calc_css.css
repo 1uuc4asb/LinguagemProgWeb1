@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    border-radius: 2mm;
+    padding: 1cm;
+    border-style: dotted;
+    border-width: 1mm;
+    border-color: black;
+    display: inline-block;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#radios{
+    margin-left: 18%; 
+    text-align: left !important;
+}

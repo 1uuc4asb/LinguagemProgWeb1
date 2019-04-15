@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Exemplo Médio</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  	<h1>Contador</h1>
+  	<label id="variavel">0</label>
+  	<br>
+  	<button type="button" onclick="reset()">Zerar</button>
+  </body>
+  <script type="text/javascript" src="main.js"></script>
+</html>

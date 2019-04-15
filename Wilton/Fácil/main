@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Exemplo Fácil</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  	<h1>Faz o teste</h1>
+  	<label>Escreve ai mofi</label>
+  	<input type="text" id="input-teste">
+  	<br>
+  	<button type="button" onclick="printEscrito()">O que escrevi?</button>
+  </body>
+  <script type="text/javascript" src="main.js"></script>
+</html>
